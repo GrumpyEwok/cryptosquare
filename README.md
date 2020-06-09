@@ -3,7 +3,7 @@ _The program will return a single character as itself._
 *	Input Example: “A”
 *	Output Example: “A”
 
-_The program will downcase the input
+_The program will downcase the input._
 *	Input Example: “A”
 *	Output Example: “a”
 
